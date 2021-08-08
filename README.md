@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShanyOS
 - 👀 I’m interested in becoming a front end developer
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m a Beginner
 - 💞️ I’m looking to collaborate on good projects
 - 📫 You can reach me later
 
